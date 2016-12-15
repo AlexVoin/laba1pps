@@ -1,5 +1,4 @@
-/* Реализация возможностей паттернов State, Facade, Singleton
-Выполнено Дианой Белик*/
+/* Реализация возможностей паттернов State, Facade, Singleton*/
 
 #include "Cars.h"
 #include <locale>
